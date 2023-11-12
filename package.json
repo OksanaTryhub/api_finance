@@ -10,7 +10,7 @@
     "lint": "eslint . --fix"
   },
   "keywords": [],
-  "author": "Maksim Leskin <maksim.leskin@methed.ru>",
+  "author": "https://github.com/OksanaTryhub",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
